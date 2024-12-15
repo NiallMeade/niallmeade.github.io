@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.3a25d736.css",
-    "main.js": "/static/js/main.dae8ae78.js",
+    "main.js": "/static/js/main.0ef115b1.js",
     "static/css/962.6e95e527.chunk.css": "/static/css/962.6e95e527.chunk.css",
     "static/js/962.79e00b40.chunk.js": "/static/js/962.79e00b40.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.3316c185.chunk.js": "/static/js/990.3316c185.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Niall Meade CV.pdf": "/static/media/Niall Meade CV.99559d3d60356cf4f50f.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -24,7 +25,7 @@
     "static/media/intel.webp": "/static/media/intel.520d3f195a95023d5c5b.webp",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3a25d736.css.map": "/static/css/main.3a25d736.css.map",
-    "main.dae8ae78.js.map": "/static/js/main.dae8ae78.js.map",
+    "main.0ef115b1.js.map": "/static/js/main.0ef115b1.js.map",
     "962.6e95e527.chunk.css.map": "/static/css/962.6e95e527.chunk.css.map",
     "962.79e00b40.chunk.js.map": "/static/js/962.79e00b40.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -32,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.3a25d736.css",
-    "static/js/main.dae8ae78.js"
+    "static/js/main.0ef115b1.js"
   ]
 }
